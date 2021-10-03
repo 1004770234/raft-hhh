@@ -1,0 +1,27 @@
+读自raft-java项目
+
+1、P0-RaftNode（细节）：
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=ab95a229-c950-499b-b1bd-b23e600f7240&channel=copylink&shardId=s21&ownerId=23073765
+2、P324-RaftNode（细节）：
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=62f0686e-9e13-4287-b5f4-e224a69adb4b&channel=copylink&shardId=s21&ownerId=23073765
+3、P745-RaftNode（细节）：
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=41c16a49-42f0-48d0-8ec6-07a531edc6cb&channel=copylink&shardId=s21&ownerId=23073765
+4、peer+RaftOptions+ConfigurationUtils+RaftFileUtils：
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=81e28155-0f3c-4105-9d91-ae899b35b3b1&channel=copylink&shardId=s21&ownerId=23073765
+5、Segment+SegmentedLog+Snapshot：
+    https://app.yinxiang.com/shard/s21/nl/23073765/38ac3002-23dc-4817-b1b4-7f69b459aa3a
+6、RaftClientServiceImpl+RaftConsensusServiceImpl:
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=fccbdee9-3f26-4d35-b6d0-89602a963fe8&channel=copylink&shardId=s21&ownerId=23073765
+7、ExampleStateMachine+ServerMain+ExampleServiceImpl：
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=7762e6ed-97c1-45ee-af7c-2242ec146408&channel=copylink&shardId=s21&ownerId=23073765
+8、shell
+    https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=e07d0525-27ed-428e-ac94-c8eee11091a5&channel=copylink&shardId=s21&ownerId=23073765
+
+
+
+
+
+
+
+
+
